@@ -64,7 +64,7 @@ p {
  *
  */
 a {
-  color: #777777;
+  color: rgb(0, 128,0); ;
 	text-decoration: none;
 }
 /*
@@ -72,7 +72,7 @@ a {
  *
  */
 a:hover {
-  color:#666666;
+  color:rgb(123, 238, 140); ;
   text-decoration: none;
 }
 
